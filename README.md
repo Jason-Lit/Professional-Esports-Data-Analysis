@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves the analysis of data from professional Valorant players. The dataset, compiled from two sources, contains fourteen relevant statistics for 5600 professional players. The primary objectives of this analysis were to aggregate, process, and clean the dataset for subsequent visualizations and machine learning.
+This project involves the analysis of data from professional Valorant players. The dataset, compiled from two sources, contains fourteen relevant statistics for 5600 professional players. The primary question that the analysis focused on was whether the earnings that players make from tournaments equate to the value they bring to the team.
 
 ## Key Contributions
 
